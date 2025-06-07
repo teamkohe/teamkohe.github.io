@@ -4,7 +4,7 @@ layout: default
 
 <!-- picture <img class="profile-picture" src="sherlock.jpg"> -->
 
-I am a second-year PhD student in Economics at University of Rochester.
+I am a second-year PhD student in Economics at the University of Rochester.
 My research interests include econometrics.
 
 Click [here](cv.pdf) for my CV.
