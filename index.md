@@ -10,4 +10,4 @@ My research interests include econometrics.
 Click [here](cv.pdf) for my CV.
 
 ## Research
-1. [Sunada Keita](https://keita-sunada.github.io/), and Kohei Izumi, **Optimal Treatment Assignment Rules under Capacity Constraints**
+1. [Sunada Keita](https://keita-sunada.github.io/), and Kohei Izumi, **[Optimal Treatment Assignment Rules under Capacity Constraints](https://arxiv.org/abs/2506.12225)**
