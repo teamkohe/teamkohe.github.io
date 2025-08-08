@@ -1,6 +1,6 @@
 title: Kohei Izumi
-url: #
-baseurl: #
+url: "https://teamkohe.github.io"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
