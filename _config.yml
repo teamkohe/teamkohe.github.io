@@ -2,6 +2,10 @@ title: Kohei Izumi
 url: "https://teamkohe.github.io"
 baseurl: ""
 
+# https://qiita.com/NightOwl/items/a7f972ba70f1ad037d65
+plugins:
+  - jekyll-sitemap
+
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
