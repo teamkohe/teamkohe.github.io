@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Kohei Izumi
 ---
 
 <!-- picture <img class="profile-picture" src="sherlock.jpg"> -->
