@@ -1,14 +1,18 @@
 ---
 layout: default
-title: Kohei Izumi
+title: "Kohei Izumi"
 ---
 
 <!-- picture <img class="profile-picture" src="sherlock.jpg"> -->
 
-I am a second-year PhD student in Economics at the University of Rochester.
+I am a third-year PhD student in Economics at the University of Rochester.
 My research interests include econometrics.
 
 Click [here](cv.pdf) for my CV.
 
 ## Research
 1. [Sunada Keita](https://keita-sunada.github.io/), and Kohei Izumi, **[Optimal Treatment Assignment Rules under Capacity Constraints](https://arxiv.org/abs/2506.12225)**
+
+<p style="text-align: right; font-size: 0.8em; color: #666;">
+  Last updated on {{ site.time | date: "%B %d, %Y" }}
+</p>

@@ -55,6 +55,17 @@
     {% else %}
         <meta name="twitter:image" content="{{ site.profile_picture }}">
     {% endif %}
+
+    <!-- to modify site name -->
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "{{ site.title }}",
+            "url": "{{ site.url }}{{ site.baseurl }}"
+        }
+    </script>
+
 </head>
 <body>
     <div class="wrapper">
